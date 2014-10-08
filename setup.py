@@ -18,7 +18,7 @@ setup(name='djehutylgtm',
       long_description=README,
       author='xica development team',
       author_email='info@xica.net',
-      url='https://github.com/xica/djehutylgtm',
+      url='https://github.com/xica/djehuty-lgtm',
       license='MIT',
       classifiers=[
           'Development Status :: 3 - Alpha',
